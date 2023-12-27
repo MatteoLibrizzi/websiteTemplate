@@ -1,0 +1,9 @@
+.footer {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.left-footer {
+	text-align: start;
+}

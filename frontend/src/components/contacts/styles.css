@@ -1,0 +1,12 @@
+.contacts {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1vw;
+}
+
+.icons a {
+  text-decoration: none;
+  color: black;
+}
